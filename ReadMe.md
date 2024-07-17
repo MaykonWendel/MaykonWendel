@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Maykon!
 💻 | Sou estudante de Ciência da Computação na UFC<br>🧒🏽 | Tenho 19 anos, e estou començando neste mundo! <br>
 
 

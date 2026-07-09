@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Maykon! 👋</h1>
 <br>
 
-  Sou estudante de Ciência da Computação na Universidade Federal do Ceará – Campus Quixadá, com foco em desenvolvimento web e atuação como desenvolvedor full stack. Possuo experiência no desenvolvimento de aplicações modernas e escaláveis, utilizando tecnologias como C, C++, C#, Python, Java, JavaScript (Node.js), React, HTML5, CSS3, Kotlin, além de conhecimentos em ferramentas e frameworks voltados para o ecossistema de desenvolvimento back-end, front-end e mobile.
+  Sou estudante de Ciência da Computação na Universidade Federal do Ceará – Campus Quixadá, com foco em desenvolvimento como desenvolvedor full stack. Possuo experiência no desenvolvimento de aplicações modernas e escaláveis, utilizando tecnologias como C, C++, C#, Python, Java, JavaScript (Node.js), React, HTML5, CSS3, Kotlin, além de conhecimentos em ferramentas e frameworks voltados para o ecossistema de desenvolvimento back-end, front-end e mobile.
   Meu trabalho é guiado por boas práticas de programação, padrões de projeto e atenção à performance, buscando sempre entregar soluções eficientes e de qualidade. Tenho interesse contínuo em aprender novas tecnologias, explorar arquiteturas inovadoras e contribuir para projetos que impactem positivamente o usuário final.
 <br>
 <br>
